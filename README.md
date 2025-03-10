@@ -18,4 +18,4 @@
 
 ## Weekly Coding Stats
 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=dippier&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
